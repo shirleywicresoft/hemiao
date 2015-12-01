@@ -12,7 +12,7 @@
 	ms.date="09/05/2015"
 	wacn.date="10/17/2015"/>
 
-
+Add one
 # 创建和导出 SQL 数据库的 BACPAC
 
 **单一数据库**
@@ -22,12 +22,12 @@
 
 本文介绍如何通过 [Azure 门户](https://manage.widnowsazure.cn)手动导出 SQL 数据库的 BACPAC。
 
-BACPAC 是包含数据库架构和数据的 .bacpac 文件。有关详细信息，请参阅[数据层应用程序](https://msdn.microsoft.com/zh-cn/library/ee210546.aspx)中的备份包 (.bacpac)。
+ 文件。有关详细信息，请参阅[数据层应用程序](https://msdn.microsoft.com/zh-cn/library/ee210546.aspx)中的备份包 (.bacpac)。
 
 > [AZURE.NOTE]Azure SQL 数据库会自动为每个用户数据库创建备份。有关详细信息，请参阅[业务连续性概述](/documentation/articles/sql-database-business-continuity)。
 
 
-BACPAC 导出到 Azure 存储 blob 容器中，你可以在操作成功完成后进行下载。
+BACPAC，你可以在操作成功完成后进行下载。
 
 若要完成本文，你需要以下各项：
 
